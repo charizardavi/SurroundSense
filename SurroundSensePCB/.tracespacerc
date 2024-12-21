@@ -1,0 +1,11 @@
+noLayer: true
+board:
+    color:
+        fr4: '#666666' #Substrate
+        cu: '#cccccc' #Copper
+        cf: '#cc9933' #Copper (finished)
+        sm: "rgba(00,00,00,0.75)" #Soldermask
+        ss: '#ffffff' #Silkscreen
+        sp: '#999999' #Solderpaste
+        out: "rgba(00,00,128,0.75)" #Board outline
+
