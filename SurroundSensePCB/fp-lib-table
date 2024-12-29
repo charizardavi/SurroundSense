@@ -6,4 +6,5 @@
   (lib (name "T3902")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/parts_lib/T3902/T3902.elibz")(options "")(descr ""))
   (lib (name "AMS1117-3.3")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/parts_lib/AMS1117-3.3/AMS1117-3.3.elibz")(options "")(descr ""))
   (lib (name "DRV2605LDGSR")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/parts_lib/DRV2605LDGSR/DRV2605LDGSR.elibz")(options "")(descr ""))
+  (lib (name "TLV75533PDBVR")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/parts_lib/TLV75533PDBVR/TLV75533PDBVR.elibz")(options "")(descr ""))
 )
